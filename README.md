@@ -3,7 +3,7 @@
 ### I'm a Product Engineer @[Appwrite](https://github.com/appwrite).
 
 * 🌱 Currently diving into the JS ecosystem and learning Spanish 🇪🇸
-* 🔭 Passionate about solving mobile app challenges and exploring Appwrite
+* 🔭 Passionate about solving mobile app challenges and exploring tech in general
 * 💬 Feel free to ask me about mobile apps, backend, or finding those elusive bugs 🐛
 * ⚡️ Fun fact: I'm known for spotting obscure bugs, like a Product Analyst with dev superpowers!
 
@@ -66,7 +66,7 @@
 ![Appwrite](https://img.shields.io/badge/Appwrite-DB195B?style=for-the-badge&logo=Appwrite&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F85032.svg?style=for-the-badge&logo=firebase)
-![Hostinger](https://img.shields.io/badge/Hostiner-6C44E5.svg?style=for-the-badge&logo=hostinger)
+![Hostinger](https://img.shields.io/badge/Hostinger-6C44E5.svg?style=for-the-badge&logo=hostinger)
 
 # 📊 GitHub Stats:
 

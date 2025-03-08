@@ -2,7 +2,7 @@
 
 ### I'm a Product Engineer @[Appwrite](https://github.com/appwrite).
 
-* 🌱 Currently diving into the JS ecosystem and learning Spanish 🇪🇸
+* 🌱 Currently diving into the Svelte & JS ecosystem
 * 🔭 Passionate about solving mobile app challenges and exploring tech in general
 * 💬 Feel free to ask me about mobile apps, backend, or finding those elusive bugs 🐛
 * ⚡️ Fun fact: I'm known for spotting obscure bugs, like a Product Analyst with dev superpowers!
@@ -70,6 +70,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=itznotabug&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itznotabug&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itznotabug&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| **Statistics** | **Languages** | **Streak & Contributions** |
+| --- | --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itznotabug&theme=gotham&hide_border=false&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itznotabug&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itznotabug&theme=gotham&hide_border=false) |

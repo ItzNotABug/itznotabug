@@ -68,8 +68,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-F85032.svg?style=for-the-badge&logo=firebase)
 ![Hostinger](https://img.shields.io/badge/Hostinger-6C44E5.svg?style=for-the-badge&logo=hostinger)
 
+<!--- 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=itznotabug&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itznotabug&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itznotabug&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+--->

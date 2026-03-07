@@ -1,8 +1,6 @@
 # Heyyo, I'm Darshan Pandya <img src="https://raw.githubusercontent.com/itznotabug/itznotabug/master/wave.gif" width="30px" height="30px"></h2>
 
-### I'm a Product Engineer @[Appwrite](https://github.com/appwrite).
-
-* 🌱 Currently diving into the Svelte & JS ecosystem
+* 🌱 Currently diving into the Svelte, JS ecosystem and all things AI
 * 🔭 Passionate about solving mobile app challenges and exploring tech in general
 * 💬 Feel free to ask me about mobile apps, backend, or finding those elusive bugs 🐛
 * ⚡️ Fun fact: I'm known for spotting obscure bugs, like a Product Analyst with dev superpowers!
